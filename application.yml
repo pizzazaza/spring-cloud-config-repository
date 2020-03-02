@@ -2,4 +2,4 @@ spring:
   profiles:
     active: local
 
-application: test/n
+application: test\n
